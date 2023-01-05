@@ -9,7 +9,7 @@ body {
     background-image: url("https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif");
     background-size: cover;
     padding: 375px 0 375px 0;
-    
+    height: 100%;
 }
 
 #main-logo {
